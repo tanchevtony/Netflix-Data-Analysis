@@ -24,8 +24,8 @@ Questions to answer:
 7. Show all the Records, where "Category is Movie and Type is Comedies" or "Country is United Kingdom".
 8. In how many movies/shows, Tom Cruise was cast?
 9. What are the different Ratings defined by Netflix?
-    9.1. How many Movies got the 'TV-14' rating, in Canada?
-    9.2. How many TV Show got the 'R' rating, after year 2018?
+9.1. How many Movies got the 'TV-14' rating, in Canada?
+9.2. How many TV Show got the 'R' rating, after year 2018?
 10. What is the maximum duration of a Movie/Show on Netflix?
 11. Which individual country has the Highest No. of TV Shows?
 12. How can we sort the dataset by Year?
